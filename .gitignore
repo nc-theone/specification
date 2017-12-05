@@ -5,3 +5,5 @@ node_modules/
 mods/.sass-cache/
 .DS_Store
 .idea
+.vscode/
+debug/
